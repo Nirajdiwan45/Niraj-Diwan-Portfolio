@@ -10,8 +10,6 @@ Hi, I'm **Niraj Diwan**, a passionate **Network Security Engineer** with a stron
 
 * 🔐 Network Security & Threat Analysis
 * 🛡️ Penetration Testing (Web, APIs)
-* ⚙️ DevSecOps & Automation
-* 🌐 Building modern web interfaces
 
 ---
 
@@ -27,9 +25,7 @@ Hi, I'm **Niraj Diwan**, a passionate **Network Security Engineer** with a stron
 ## 🛠️ Tech Stack
 
 ```bash
-Frontend  : HTML, CSS, JavaScript
 Security  : VAPT, SIEM, EDR, Threat Analysis
-DevOps    : Docker, Jenkins, Git
 Tools     : Nmap, Burp Suite, Wireshark, Metasploit
 ```
 
@@ -57,9 +53,10 @@ Tools     : Nmap, Burp Suite, Wireshark, Metasploit
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: https://www.linkedin.com/in/niraj-diwan-b58082216
 * 🐙 GitHub: https://github.com/Nirajdiwan45
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [nirajcdiwan@gmail.com](mailto:your-email@example.com)
+* 📧 Contact No: [+91-9822575770](mailto:your-email@example.com)
 
 ---
 
